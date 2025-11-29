@@ -1,7 +1,5 @@
 # Frame Interpolation for mpv.net
 
-I did not write VapourSynth, and I did not write mpv.net. I did however struggle for several hours to create a working frame interpolation filter for mpv.net.
-
 ## Why?
 To playback video at a smoother higher framerate. This is colloquially known as "the soap opera effect", and if you've never experienced it, it can be jarring...it certainly was the first time I saw it.
 
